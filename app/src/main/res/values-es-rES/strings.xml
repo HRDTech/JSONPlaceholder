@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JSONPlaceholder</string>
+    <string name="tab_text_1">{JSON}Placeholder</string>
+    <string name="tab_text_2">Contactos del Movil</string>
+    <string name="title_detail_activity">Detalles del post</string>
+    <string name="label_name_activity">Nombre:</string>
+    <string name="label_email_activity">Email:</string>
+    <string name="label_body_activity">Mensaje:</string>
+    <string name="msg_dialog_permission">Tiene que permitir los permisos, sino no puede acceder a los contactos del movil.</string>
+    <string name="btn_dialog_permission">Aceptar</string>
+    <string name="msg_no_contact">No existen contactos que mostrar</string>
+    <string name="label_number_phone_activity">Número de telefono</string>
+    <string name="btn_delete_contact_activity">Eliminar</string>
+    <string name="btn_update_contact_activity">Actualizar</string>
+    <string name="btn_save_contact_activity">Guardar</string>
+    <string name="title_edit_contact_activity">Editar el contacto</string>
+    <string name="title_new_contact_activity">Nuevo contacto</string>
+    <string name="msg_no_name_contact">El nombre no puede estar en blanco.</string>
+    <string name="msg_no_phone_contact">El número de telefono no puede estar en blanco.</string>
+    <string name="title_ok_add_contact">El contacto fue agregado correctamente</string>
+    <string name="msg_ok_add_contact">Desea agregar otro ?</string>
+    <string name="title_no_add_contact">Ocurrió un error al agregar el contacto</string>
+    <string name="btn_yes_add_contact">Si</string>
+</resources>

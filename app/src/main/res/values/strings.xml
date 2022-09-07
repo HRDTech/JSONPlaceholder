@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">JSONPlaceholder</string>
+    <string name="tab_text_1">{JSON}Placeholder</string>
+    <string name="tab_text_2">Mobile Contacts</string>
+
+    <string name="title_detail_activity">Detail Post</string>
+    <string name="title_edit_contact_activity">Edit Contact</string>
+    <string name="title_new_contact_activity">New Contact</string>
+
+    <string name="label_name_activity">Name:</string>
+    <string name="label_email_activity">Email:</string>
+    <string name="label_body_activity">Body:</string>
+    <string name="label_number_phone_activity">Number Phone:</string>
+
+    <string name="msg_dialog_permission">You have to allow permissions, but cannot access mobile contacts.</string>
+    <string name="btn_dialog_permission">Accept</string>
+
+    <string name="msg_no_contact">There are no contacts to show</string>
+    <string name="msg_no_name_contact">The name cannot be blank.</string>
+    <string name="msg_no_phone_contact">The phone number cannot be blank.</string>
+
+    <string name="btn_delete_contact_activity">Delete</string>
+    <string name="btn_update_contact_activity">Update</string>
+    <string name="btn_save_contact_activity">Save</string>
+
+    <string name="title_ok_add_contact">The contact was added successfully</string>
+    <string name="msg_ok_add_contact">Do you want to add another ?</string>
+    <string name="title_no_add_contact">There was an error adding the contact</string>
+    <string name="btn_yes_add_contact">Yes</string>
+    <string name="btn_no_add_contact" translatable="false">No</string>
+
+</resources>
