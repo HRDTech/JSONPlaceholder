@@ -1,3 +1,5 @@
 package com.solucioneshr.soft.jsonplaceholder.util
 
-data class EventPermission()
+data class EventPermission(
+    val isGranted: Boolean
+)
